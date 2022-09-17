@@ -1,4 +1,4 @@
 cd /root
-mdkir ebpf_escape
+m ebpf_escape
 cd ebpf_escape
 echo "Pwn" > ./escape
